@@ -3,9 +3,11 @@ Iquidus Explorer - 1.7.3
 
 An open source block explorer written in node.js.  
 #### A quick how to install for Denarius - https://blockforums.org/topic/257-how-to-basic-block-explorer/  
+![Denarius](/public/images/denarius.gif)
 
 ### See it in action
 
+*  [Denarius](https://explorer.denarius.pro)
 *  [Deutsche eMark](http://b.emark.tk/)
 *  [Vertcoin](http://explorer.vertcoin.info/)
 *  [TheHolyRogerCoin (ROGER) Explorer](https://explorer.theholyroger.com/)
