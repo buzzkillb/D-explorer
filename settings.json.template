@@ -102,7 +102,7 @@
     "coin": "D",
     "exchange": "BTC",
     "enabled": ["tradeogre"],
-    "tradeogre_id": "1658",
+    "tradeogre_id": "BTC-D",
     "default": "tradeogre"
   },
 
