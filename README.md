@@ -3,6 +3,7 @@ Iquidus Explorer - 1.7.3
 
 An open source block explorer written in node.js.  
 #### A quick how to install for Denarius - https://blockforums.org/topic/257-how-to-basic-block-explorer/  
+#### How to install using full Docker - https://blockforums.org/topic/411-how-to-block-explorer-iquidus-docker/  
 ![Denarius](/public/images/denarius.gif)
 
 ### See it in action
